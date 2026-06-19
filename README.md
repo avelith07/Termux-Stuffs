@@ -1,2 +1,2 @@
 # Termux-Stuffs
-Make your Termux a little bit better 
+Make your Termux better
